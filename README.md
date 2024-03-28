@@ -26,7 +26,7 @@ We are always looking for new challenges and opportunities to learn and grow. We
 
 Contact us:
 
-Email: gma,development.3@gmail.com
+Email: gma.development.3@gmail.com
 
 <!---
 GMA-Development/GMA-Development is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
